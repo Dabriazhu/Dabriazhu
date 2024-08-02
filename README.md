@@ -1,7 +1,5 @@
 ## Hi there 👋
 
-Here are some ideas to get you started:
-
 - 🍀 I'm Guodong Zhu. Welcome to my Github Page!
 - 🫧 I’m currently learning in Johns Hopkins University in Business Analytics and Risk Management.
 - 💼 I'm interested in Data Analytics.
